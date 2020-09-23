@@ -1,0 +1,12 @@
+name: alde-engagement-kpi-dashboard
+title: alde-engagement-kpi-dashboard
+username:
+account: aldeparty
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2867736
+bundleId: 3660925
+url: https://aldeparty.shinyapps.io/alde-engagement-kpi-dashboard/
+when: 1600851134.75331
+asMultiple: FALSE
+asStatic: FALSE
